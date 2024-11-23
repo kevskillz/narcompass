@@ -2,7 +2,7 @@
 
 Connecting Narcan carriers with overdose victims instantly to save lives.
 
-Try it out without an andoroid device with [this link](https://appetize.io/app/an43t7zeehs2cytt2jkrgftkxm?device=pixel7&osVersion=13.0)
+Try it out without an andoroid device with [this link](https://appetize.io/app/an43t7zeehs2cytt2jkrgftkxm?device=pixel7&osVersion=13.0).
 More information on [How to Run](#how-to-run) is below.
 
 ## 🛠 Tech Stack
