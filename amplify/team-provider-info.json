@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-narcompass-dev-123211-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081464500984:role/amplify-narcompass-dev-123211-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081464500984:role/amplify-narcompass-dev-123211-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-narcompass-dev-123211-deployment",
+      "UnauthRoleName": "amplify-narcompass-dev-123211-unauthRole",
+      "StackName": "amplify-narcompass-dev-123211",
+      "StackId": "arn:aws:cloudformation:us-east-1:081464500984:stack/amplify-narcompass-dev-123211/b46e1b00-a414-11ee-9116-0aac3da84635",
+      "AmplifyAppId": "d1vp7f8107hr3"
+    }
+  }
+}
