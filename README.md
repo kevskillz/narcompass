@@ -1,5 +1,7 @@
 # NarCompass: Life-Saving Connections
 
+Check out my blog post for more info! https://www.kevinlobo.us/blog/posts/narcompass 
+
 Connecting Narcan carriers with overdose victims instantly to save lives.
 
 Try it out online with [this link](https://appetize.io/app/an43t7zeehs2cytt2jkrgftkxm?device=pixel7&osVersion=13.0).
