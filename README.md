@@ -1,11 +1,16 @@
 # NarCompass: Life-Saving Connections
 
+![NarCompass Logo](/images/narcompass/narcompass.png)
+
+
 Check out my blog post for more info! https://www.kevinlobo.us/blog/posts/narcompass 
 
 Connecting Narcan carriers with overdose victims instantly to save lives.
 
 Try it out online with [this link](https://appetize.io/app/an43t7zeehs2cytt2jkrgftkxm?device=pixel7&osVersion=13.0).
 More information on [How to Run](#how-to-run) is below.
+
+Here is a [link to our demo](https://youtu.be/jBM4NVu7nOk), and here is a [link to our pitch deck](https://docs.google.com/presentation/d/1LEqF48j-76JbAQIIsNgLUkIvx-FbFf2dSDzfHUJvrJM/view).
 
 ## 🛠 Tech Stack
 
@@ -15,6 +20,26 @@ More information on [How to Run](#how-to-run) is below.
 - **Expo**: For development and deployment.
 - **Tensorflow**: Train ML custom ML model to determine overdose status based on smartwatch readings.
 - **Express**: Creat a RESTful API to query ML model from our app.
+
+## Features
+
+Our app uses the Google Maps API to display Narcan carriers and overdosers.
+
+![recent](/images/narcompass/recent_od.png)
+
+Once the carrier decides to help on the app, it draws the quickest route to the overdoser. It also features a notification system for the carriers and overdosers indicating that someone is on the way and how close they
+are from you.
+
+![route](/images/narcompass/route.png)
+
+Each incident also has detailed information to ensure that the Narcan carrier is ready to help.
+
+![info](/images/narcompass/info.png)
+
+This is experimental, but we also trained a model on data that can be gathered from a smartwatch device to detect overdoses
+and alert for help.
+
+![od](/images/narcompass/healthy.png)
 
 ## 🌟 Inspiration
 
